@@ -19,13 +19,13 @@ The team in Jülich will provide appropriate facilities, set up the overall sche
 
 📜 **Rule 1:** One issue per satellite event proposal
 
-📜 **Rule 2:** Use the satellite event issue template to put your abstract in the right shape - we need information such as a title, description, resonsible persons, timeframe, requirements.
+📜 **Rule 2:** Use the satellite event issue template to put your abstract in the right shape - we need information such as a title, description, resonsible persons, timeframe, requirements.<br>
 👍 Please vote on ideas/issues that you consider interessting. Join forces if you had a similar idea.
  
-💡 Note: Registration for these satellite events will be done with separate indico events. Please contact the LOC team if you need help. The Helmholtz AI outreach team will advertise all satellite events and share information about the registration. 
+💡 Note: _Registration for these satellite events will be done with separate indico events. Please contact the LOC team if you need help. The Helmholtz AI outreach team will advertise all satellite events and share information about the registration._
 
 If you run into any problems with this process, please contact [Susanne Wenzel](mailto:s.wenzel@fz-juelich.de) and/or [Fritz Niesel](mailto:f.niesel@fz-juelich.de).
 
-Looking forward to an inspiring day at Campus Jülich
+Looking forward to an inspiring day at Campus Jülich<br>
 The Helmholtz AI Conference Local Organisation Committee
 
