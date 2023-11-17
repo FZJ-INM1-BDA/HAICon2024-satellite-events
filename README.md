@@ -1,10 +1,16 @@
 # Helmholtz AI Conference 2024 - Satellite Events
 Collection of proposals for satellite events for the Helmholtz AI Conference 2024 - Prologue at FZJ
 
+<p align="center">
+  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="30"> 
+  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76" height="50"> 
+  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2991ef96-2db6-44ec-ab4e-5d8c6a8a8bc9" height="100"> 
+</p>
+
 :calendar: When: June 11, 2024
+
 :round_pushpin: Where: Campus Forschungszentrum Jülich
 
-![image](https://github.com/FZJ-INM1-BDA/HAICon2024-satellite-events/assets/29659187/09f48888-c020-4f5a-b936-4a4f3351a79e)
 
 🗣️ Pre-conference satellite events are an excellent way to engage participants and offer diverse learning opportunities. The Helmholtz AI team at Forschungszentrum Jülich aims to offer an interactive platform for the Helmholtz AI community to delve deeper into specific topics of applied AI, foster collaboration, and provide hands-on learning experiences. We invite you to propose a specific activity, e.g., a workshop, hackathon, or tutorial that goes beyond the programme of the main conference framework.
 
