@@ -7,7 +7,7 @@ Collection of proposals for satellite events for the Helmholtz AI Conference 202
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76" height="50"> 
 </p>
 
-:calendar: When: //
+:calendar: When: June 11, 2024 <br>
 :round_pushpin: Where: Campus Forschungszentrum Jülich
 
 
@@ -15,7 +15,7 @@ Collection of proposals for satellite events for the Helmholtz AI Conference 202
 
 The team in Jülich will provide appropriate facilities, set up the overall schedule, and will also care about logistics such as transport from Düsseldorf to Jülich in the morning and back in the evening. Moreover, the team will complete the programme with tours and lab visits on campus.
 
-🤝 Please post your proposal for a satellite event, relevant for the Helmholtz AI community, as [issues](https://github.com/FZJ-INM1-BDA/HAICon2024-satellite-events/issues). You need to have a GitHub account in order to do so.
+🤝 Please post your proposal for a satellite event, relevant for the Helmholtz AI community, as [issue](https://github.com/FZJ-INM1-BDA/HAICon2024-satellite-events/issues). You need to have a GitHub account in order to do so.
 
 📜 **Rule 1:** One issue per satellite event proposal
 
