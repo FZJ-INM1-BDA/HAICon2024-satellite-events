@@ -2,13 +2,12 @@
 Collection of proposals for satellite events for the Helmholtz AI Conference 2024 - Prologue at FZJ
 
 <p align="center">
+  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76" height="50"> 
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="30"> 
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76" height="50"> 
-  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="30">  
 </p>
 
-:calendar: When: June 11, 2024
-
+:calendar: When: \\
 :round_pushpin: Where: Campus Forschungszentrum Jülich
 
 
