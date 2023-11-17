@@ -7,7 +7,7 @@ Collection of proposals for satellite events for the Helmholtz AI Conference 202
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76" height="50"> 
 </p>
 
-:calendar: When: \\
+:calendar: When: //
 :round_pushpin: Where: Campus Forschungszentrum Jülich
 
 
