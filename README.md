@@ -1,4 +1,5 @@
-# ---- Deadline extended to January 28 ----
+#      ⏰           _Deadline extended to January 28_
+---
 
 # Helmholtz AI Conference 2024 - Satellite Events
 Collection of proposals for satellite events for the Helmholtz AI Conference 2024 - Prologue at FZJ
